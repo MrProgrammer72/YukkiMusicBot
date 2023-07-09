@@ -20,7 +20,7 @@
 
 ## 🖇 VPS Deployment
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+Checkout [Docs](https://github.com/MrProgrammer72/YukkiMusicBot/wiki/yukki-Music-Bot-docs) for Detailed Explanation on VPS Deploy
 
 
 # 🏷 Support / Assistance
